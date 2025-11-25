@@ -44,7 +44,7 @@ ________________________________________________________________________________
  4. Features
  5. Working
  6. BMI category table
- 7. Code structure
+ 7. Output 
  8. Conclusion
  9. License
 
@@ -103,7 +103,7 @@ ________________________________________________________________________________
  
 4. Applies BMI formula.
  
-5. Displays results+ category.
+5. Displays results with category.
 
 ____________________________________________________________________________________________________________
 
@@ -129,12 +129,14 @@ ________________________________________________________________________________
 
 -Useful for students learning web development or basic python projects.
 
+-It highlights the application's success in providing a user- friendly tool for health awarness, its technical implementation, and the importance of understanding BMI's role and limitations.
+
 __________________________________________________________________________________________________________________
 
 
 *LICENSE
 
-This project is open source and available under the MIT License
+This project is open source and available under the MIT License.
 
 ___________________________________________________________________________________________________________________
 
